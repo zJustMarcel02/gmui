@@ -6,4 +6,4 @@
 
 ## About the Plugin:
 
-The Plugin is submitted to [Poggit](https://poggit.pmmp.io/ci/GameModeUi "GameModeUI on Poggit!")
+The Plugin is submitted to [Poggit](poggit.pmmp.io/p/GameModeUI/1.0 "GameModeUI on Poggit!")
